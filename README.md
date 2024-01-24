@@ -1,7 +1,7 @@
-Credit Risk Customers Dataset
+Credit Risk Customers Datase 
 
  Overview
-
+ 
 The Credit Risk Customers dataset is a comprehensive collection of information pertaining to individuals who have applied for loans. This dataset, sourced from a German bank, focuses on both personal and financial details of the applicants. Comprising 1000 rows and 21 columns, it serves as a labeled dataset where the target variable involves a binary classification indicating good or bad credit risk.
 
 Dataset Information
